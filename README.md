@@ -9,4 +9,24 @@ In this dataset, I have 18,540  images of 102 different species of flowers. I've
 [The dataset can be downloaded from here](https://he-public-data.s3-ap-southeast-1.amazonaws.com/HE_Challenge_data.zip)
 
 
-
+# Approach Presentation
+![Prsentation Agenda](ppt/1.jpg)
+![Prsentation Agenda](ppt/2.jpg)
+![Prsentation Agenda](ppt/3.jpg)
+![Prsentation Agenda](ppt/4.jpg)
+![Prsentation Agenda](ppt/5.jpg)
+![Prsentation Agenda](ppt/6.jpg)
+![Prsentation Agenda](ppt/7.jpg)
+![Prsentation Agenda](ppt/8.jpg)
+![Prsentation Agenda](ppt/9.jpg)
+![Prsentation Agenda](ppt/10.jpg)
+![Prsentation Agenda](ppt/11.jpg)
+![Prsentation Agenda](ppt/12.jpg)
+![Prsentation Agenda](ppt/13.jpg)
+![Prsentation Agenda](ppt/14.jpg)
+![Prsentation Agenda](ppt/15.jpg)
+![Prsentation Agenda](ppt/16.jpg)
+![Prsentation Agenda](ppt/17.jpg)
+![Prsentation Agenda](ppt/18.jpg)
+![Prsentation Agenda](ppt/19.jpg)
+![Prsentation Agenda](ppt/20.jpg)
